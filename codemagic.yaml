@@ -8,9 +8,9 @@ workflows:
     environment:
       ios_signing:
         provisioning_profiles:
-         - profile: qusboprsa
+         - profile: profqiusota
         certificates:
-         - certificate: unqicertzonwb
+         - certificate: newcertchikque
       vars:
         BUNDLE_ID: "com.questos.bizksuqsb2asai"
         XCODE_PROJECT: "EggQuesto.xcodeproj"
